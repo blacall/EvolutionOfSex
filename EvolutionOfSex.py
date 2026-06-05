@@ -164,9 +164,8 @@ for gener in range(GENERATIONS):
 
 # Testing area
 
-plt.plot(fitness_over_time)
-plt.plot(highest_fitness_over_time)
-plt.ylabel('Fitness')
-plt.xlabel('Gens')
-plt.show(block=True)
-#plt.savefig(f"C:/Users/Kevin/OneDrive/Pictures/PyCharm/MutRate_{round(MUT_RATE,2)}.png")
+# plt.plot(fitness_over_time)
+# plt.plot(highest_fitness_over_time)
+# plt.ylabel('Fitness')
+# plt.xlabel('Gens')
+# plt.show(block=True)
